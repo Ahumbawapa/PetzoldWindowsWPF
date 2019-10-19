@@ -1,0 +1,6 @@
+C:\work\PetzoldWindowWPF\obj\Debug\PetzoldWindowWPF.csprojAssemblyReference.cache
+C:\work\PetzoldWindowWPF\bin\Debug\PetzoldWindowWPF.exe.config
+C:\work\PetzoldWindowWPF\bin\Debug\PetzoldWindowWPF.exe
+C:\work\PetzoldWindowWPF\bin\Debug\PetzoldWindowWPF.pdb
+C:\work\PetzoldWindowWPF\obj\Debug\PetzoldWindowWPF.exe
+C:\work\PetzoldWindowWPF\obj\Debug\PetzoldWindowWPF.pdb
